@@ -5,6 +5,8 @@ erferferf
 fergegergergergerg\rtth
 egrtg\
 ![img](https://github.com/jimmie10001/jimmie10001/blob/main/img/11.png)
+
+![img](https://github.com/jimmie10001/jimmie10001/blob/main/img/22.png)
 <!--
 **jimmie10001/jimmie10001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
